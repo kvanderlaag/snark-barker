@@ -1,5 +1,14 @@
-# The Snark Barker - a SB 1.0 Clone
+# The Shark Barber - a silly joke that is a rebadge of the Snark Barker - a SB 1.0 Clone
 
+## The Shark Barber
+Literally all I did was change some silkscreen graphics to make the card look 
+sillier. My wife misread "Snark Barker" as "Shark Barber" while I was looking 
+at the PCB layout to find a component reference while building mine, and
+![@leadedsolder](https://twitter.com/LeadedSolder) suggested that it needed a
+cartoon of a shark on it. Otherwise, this is 100% Snark Barker and you should
+check out Eric's documentation because it's fantastic.
+
+## The Snark Barker
 The Snark Barker is a 100% compatible clone of the famed SB 1.0 "Killer Card"
 sound card from 1989. It implements all the features, including the digital
 sound playback and recording, Ad Lib compatible synthesis, the joystick/MIDI
