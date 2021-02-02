@@ -4,7 +4,7 @@
 Literally all I did was change some silkscreen graphics to make the card look 
 sillier. My wife misread "Snark Barker" as "Shark Barber" while I was looking 
 at the PCB layout to find a component reference while building mine, and
-![@leadedsolder](https://twitter.com/LeadedSolder) suggested that it needed a
+[@leadedsolder](https://twitter.com/LeadedSolder) suggested that it needed a
 cartoon of a shark on it. Otherwise, this is 100% Snark Barker and you should
 check out Eric's documentation because it's fantastic.
 
